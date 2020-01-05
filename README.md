@@ -10,7 +10,7 @@ El curso tiene como objetivo la construcción de un sistema de computación de u
 
 - **Proyecto 1**: Lógica Booleana (completado)
 - **Proyecto 2**: Aritmética Booleana (completado)
-- **Proyecto 3**: Lógica secuencial ()
+- **Proyecto 3**: Lógica secuencial (completado)
 - **Proyecto 4**: Lenguaje de máquina ()
 - **Proyecto 5**: Arquitectura de computadora ()
 - **Proyecto 6**: Assembler ()
